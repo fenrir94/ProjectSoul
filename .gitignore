@@ -42,6 +42,9 @@
 *.VC.opendb
 *.bat
 
+# Ingore Content, not use LFS
+**/Content
+
 # Precompiled Assets
 **/SourceArt/**/*.png
 **/SourceArt/**/*.tga
