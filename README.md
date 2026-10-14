@@ -1,1 +1,1 @@
-# ProjectSoul
+# Project Soul - Dual Blade
